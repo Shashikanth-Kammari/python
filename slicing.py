@@ -17,3 +17,13 @@ print(reverse)
 
 length=len(name)
 print(length)
+
+#split
+
+sample="I am Shashikanth chary"
+
+spliting = sample.split(" ")
+print(spliting)
+
+second= spliting[::-1]
+print(second)
