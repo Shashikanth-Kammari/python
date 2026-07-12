@@ -10,3 +10,9 @@ if number == reverse:
     print("this number is Palidrome number "+ str(reverse))
 else:
     print("this number is not palidrome number "+ str(reverse))
+name="shashi"
+
+reversed=name[::-1]
+
+if number ==reversed:
+    print("this is palidrone number"+ str(reversed))
