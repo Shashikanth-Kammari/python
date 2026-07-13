@@ -29,4 +29,4 @@ try:
     elif user_input < 10:
         print("user input less than 10")
 except:
-    print("please enter valid value")
+    print("please enter valid number")
