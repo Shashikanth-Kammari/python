@@ -1,5 +1,6 @@
-name= "Shashikanthchary"
+number= [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-for i in range(9):
-    print(name)
-    
+for i in range(len(number)):
+    if number[i] % 2 == 0:
+        
+  
