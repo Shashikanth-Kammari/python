@@ -1,6 +1,6 @@
 number=5
 for i in range(1, number):
-    print(i, end=" ")
+    print("*", end=" ")
     for j in range(1, number):
-        print(j, end=" ")
+        print("1", end=" ")
     print()  # Print a newline after each row
