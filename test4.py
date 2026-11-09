@@ -3,5 +3,5 @@ from dataclasses import dataclass
 class profile:
     name: str
     age: int
-information = profile("shash", 29)
+information = profile("shashikanth", 29)
 print(information.name, information.age)
