@@ -3,6 +3,7 @@ print(len(my_list))
 
 #append will add the element at the last 
 my_list.append("chary")
+my_list.remove("suresh")
 print(len(my_list))
 print(my_list)
 
