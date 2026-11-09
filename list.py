@@ -12,4 +12,4 @@ print(last_element)
 
 extend_list=[10,20,30]
 extend_list.extend(my_list)
-print(len(extend_list), extend_list)
+print(len(extend_list), my_list)
