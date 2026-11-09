@@ -2,7 +2,7 @@ my_list= ["naresh","suresh","ravi","karthik","shiva"]
 print(len(my_list))
 
 #append will add the element at the last 
-my_list.append("venkat")
+my_list.append("chary")
 print(len(my_list))
 print(my_list)
 
